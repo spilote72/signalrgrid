@@ -192,7 +192,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App\Employee.service.js" />
     <Content Include="App\EmployeeGrid.js" />
     <Content Include="App\odata.js" />
     <Content Include="App_Data\SignalRGridDemoContext.mdf" />
